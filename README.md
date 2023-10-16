@@ -16,4 +16,4 @@
 4)  implement all types   of traversal on the linked list
 
 
-%(Note:- you can use any language for the implementation of the code just focus on understanding the logic)%
+@(Note:- you can use any language for the implementation of the code just focus on understanding the logic)@
