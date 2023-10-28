@@ -3,9 +3,9 @@
 
 # Task to Implement for the Second year
 1) Area of circle and triangle
-2)program to find  factories
-3)program to find prime numbers
-4)program to print different patterns of *
+2) program to find  factories
+3) program to find prime numbers
+4) program to print different patterns of *
 
 # Task to Implement for the Third Year 
 1)  Write a program  by using bubble sort
