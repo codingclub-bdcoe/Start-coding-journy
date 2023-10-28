@@ -3,8 +3,8 @@
 
 # Task to Implement for the Second year
 1) Area of 
-    i)circle
-   ii)triangle
+    i: circle
+   ii: triangle
    
 2)program to find  factories
 3)program to find prime numbers
